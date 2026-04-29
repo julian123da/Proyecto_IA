@@ -171,7 +171,7 @@ El sistema valida:
 
 > Automatización principal desarrollada visualmente en n8n
 
-![Flujo Principal](img/captura-n8n.png)
+
 
 ---
 
